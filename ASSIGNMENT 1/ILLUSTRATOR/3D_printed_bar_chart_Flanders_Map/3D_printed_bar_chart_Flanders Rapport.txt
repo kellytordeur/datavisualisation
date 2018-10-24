@@ -1,0 +1,102 @@
+Pakket van rapport maken...
+
+-----------------------------------------------------------------------------
+Document:
+Naam: 3D_printed_bar_chart_Flanders.ai
+Kleurmodus: CMYK-kleur
+Kleurprofiel: U.S. Web Coated (SWOP) v2
+Maateenheid: millimeters
+Afmetingen van tekengebied: 210,0001 mm x 586,0031 mm
+Afbeeldingen tonen in omtrekmodus: UIT
+Vervangen lettertypen markeren: UIT
+Vervangen glyphs markeren: UIT
+Bewerkbaarheid van tekst behouden
+Gekleurd papier simuleren: UIT
+
+-----------------------------------------------------------------------------
+Steunkleurobjecten:
+
+-----------------------------------------------------------------------------
+Ontbrekende lettertypen:GEEN
+
+-----------------------------------------------------------------------------
+Beschermde lettertypen die niet in het pakket zijn opgenomen:GEEN
+
+-----------------------------------------------------------------------------
+Lettertypen:
+Arial Bold (OTF)
+Arial Narrow (OTF)
+Fjalla One (TrueType)
+
+-----------------------------------------------------------------------------
+Ingesloten lettertypen:
+GEEN
+
+-----------------------------------------------------------------------------
+Ontbrekende koppelingen:
+GEEN
+
+-----------------------------------------------------------------------------
+Gekoppelde afbeeldingen:
+
+D:\Downloads\20181024_154957.jpg
+Tekst: RGB
+Bits per pixel: 24
+Kanalen: 3
+Grootte: 35721K, 4032 door 3024 pixels
+Afmetingen: 413,625 door 312,991 punten 
+Resolutie: 701,853 door 695,637 pixels per inch
+
+
+D:\Downloads\20181024_154858.jpg
+Tekst: RGB
+Bits per pixel: 24
+Kanalen: 3
+Grootte: 35721K, 4032 door 3024 pixels
+Afmetingen: 495,582 door 371,687 punten 
+Resolutie: 585,783 door 585,783 pixels per inch
+
+
+D:\Users\Kelly\Bureaublad\VAKKEN\DATVIS\Opdracht 1\fotos\fejkefn.PNG
+Tekst: Transparante CMYK
+Bits per pixel: 40
+Kanalen: 5
+Grootte: 3641K, 1023 door 729 pixels
+Afmetingen: 242,319 door 172,679 punten 
+Resolutie: 303,963 door 303,963 pixels per inch
+
+
+D:\Users\Kelly\Bureaublad\VAKKEN\DATVIS\Opdracht 1\fotos\aerttfq.PNG
+Tekst: Transparante CMYK
+Bits per pixel: 40
+Kanalen: 5
+Grootte: 2361K, 751 door 644 pixels
+Afmetingen: 174,516 door 151,763 punten 
+Resolutie: 309,841 door 305,529 pixels per inch
+
+
+D:\Users\Kelly\Bureaublad\VAKKEN\DATVIS\Opdracht 1\fotos\20181022_175008.jpg
+Tekst: RGB
+Bits per pixel: 24
+Kanalen: 3
+Grootte: 35721K, 4032 door 3024 pixels
+Afmetingen: 256,802 door 192,602 punten 
+Resolutie: 1130,457 door 1130,457 pixels per inch
+
+
+D:\Users\Kelly\Bureaublad\VAKKEN\DATVIS\Opdracht 1\fotos\20181022_174941.jpg
+Tekst: RGB
+Bits per pixel: 24
+Kanalen: 3
+Grootte: 35721K, 4032 door 3024 pixels
+Afmetingen: 256,802 door 192,602 punten 
+Resolutie: 1130,457 door 1130,457 pixels per inch
+
+
+D:\Users\Kelly\Bureaublad\VAKKEN\DATVIS\Opdracht 1\fotos\febhai.PNG
+Tekst: Transparante CMYK
+Bits per pixel: 40
+Kanalen: 5
+Grootte: 3515K, 849 door 848 pixels
+Afmetingen: 166,843 door 166,646 punten 
+Resolutie: 366,381 door 366,381 pixels per inch
