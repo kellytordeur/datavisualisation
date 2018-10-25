@@ -1,4 +1,5 @@
 INDEX:
+UPDATE: ALLE BESTANDEN STAAN NU OP GITHUB.
 CONCEPTUELE NOTA (werkwijze, doel, eigenschappen, resultaat): 3D_printed_bar_chart_Flanders.pdf
 DATA: DATA/Kopie van Wettelijke_bevolking_per_gemeente_2011_2017.xlsx
 DXF BESTAND (KAART): 3D MODELS/map.dxf
