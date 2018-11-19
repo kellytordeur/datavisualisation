@@ -1,0 +1,48 @@
+<top>
+    <rewards>
+        <current_run_steps>0</current_run_steps>
+        <run_reward_movement>4.04</run_reward_movement>
+
+        <gear_reward>0</gear_reward>
+
+        <distance_reward>-1</distance_reward>
+
+        <speed_reward>0.04</speed_reward>
+
+
+        <rpm_reward>0</rpm_reward>
+
+        <terrain_reward>5</terrain_reward>
+    </rewards>
+
+    <rewards>
+        <current_run_steps>1</current_run_steps>
+        <run_reward_movement>8.04</run_reward_movement>
+
+        <gear_reward>0</gear_reward>
+
+        <distance_reward>-1</distance_reward>
+
+        <speed_reward>0</speed_reward>
+
+        <rpm_reward>0</rpm_reward>
+
+        <terrain_reward>5</terrain_reward>
+
+    </rewards>
+     <rewards>
+        <current_run_steps>2</current_run_steps>
+        <run_reward_movement>12.04</run_reward_movement>
+
+        <gear_reward>0</gear_reward>
+
+        <distance_reward>-1</distance_reward>
+
+        <speed_reward>0.0</speed_reward>
+
+        <rpm_reward>0</rpm_reward>
+
+        <terrain_reward>5</terrain_reward>
+
+    </rewards>
+</top>

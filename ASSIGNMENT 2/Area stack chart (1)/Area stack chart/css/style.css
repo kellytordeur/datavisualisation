@@ -1,0 +1,106 @@
+html,
+body {
+    margin: 0;
+    height: 100%;
+    background-color: #09092B;
+    color: white;
+    font-family: 'Raleway SemiBold', sans-serif;
+}
+
+path {
+    stroke: white;
+}
+
+g.hidden line,
+g.hidden path {
+    display: none;
+}
+
+.line {
+    fill: none;
+    stroke-width: 3;
+}
+
+.totalLine {
+    /*    stroke: #F23E29;*/
+    stroke: #9500AF;
+}
+
+.line:hover {
+    stroke: white;
+}
+
+.distance {
+    /*    stroke: #F35629;*/
+    stroke: #D408FF;
+}
+
+.speed {
+    /*    stroke: #F4702A;*/
+    stroke: #009EFF;
+}
+
+.terrain {
+    /*    stroke: #F7B12C;*/
+    stroke: #063E8E;
+}
+
+rect:hover {
+    fill: white;
+}
+
+.spinnerDiv {
+    visibility: hidden;
+}
+
+svg {
+    stroke: white;
+}
+
+.links {
+    float: left;
+    margin-left: 5%;
+    width: 45%;
+    height: 96%;
+    margin-top: 50px;
+}
+
+.links svg {
+    margin-top: 15px;
+}
+
+.rechts {
+    float: left;
+    margin-right: 5%;
+    width: 45%;
+    height: 96%;
+    margin-top: 105px;
+}
+
+.rechts svg {}
+
+h1 {
+    margin: 0;
+}
+
+.sessionChart {
+    float: right;
+    margin-top: 5px;
+}
+
+.runChart {
+    float: right;
+    margin-top: 5px;
+}
+
+.sessionRewards {
+    margin-top: 48px;
+}
+
+.runRewards {
+    margin-top: 100px;
+}
+
+.run {
+    margin-top: 70px;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Stack Area Chart: 1 AI Run</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="js/d3.v4.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+
+
+
+</head>
+
+<body onresize="drawChart()">
+
+    <div class="links">
+        <div class="spinnerDiv">
+            <label for="spinner">Run:</label>
+            <input id="spinner" name="value" value="1" type="number" min="1">
+        </div>
+        <div class="textDiv">
+            <h1>KOKE AI</h1>
+            <h2>Serpent AI Agent that learns itself how to drive a car in Project Cars 2.</h2>
+            <p>This graph represents the overall learning progress of our AI agent based on reward scores. </p>
+            <br><br>
+            <h1>CHOOSE A RUN</h1>
+            <h3>to see the rewards during that run.</h3>
+        </div>
+        <div class="runRewards">
+            <h2>Total reward Points</h2>
+        </div>
+        <div class="linkseSvg"></div>
+        <div class="sessionChart">
+            <h2>Runs per session</h2>
+        </div>
+    </div>
+    <div class="rechts">
+        <div class="run">
+            <h1 class="runH1">RUN 1</h1>
+            <p>Last updated: 16 november 2018</p>
+            <div class="sessionRewards">
+                <h2>Reward Points</h2>
+            </div>
+            <div class="rechtseSvg"></div>
+        </div>
+        <div class="runChart">
+            <h2>Steps per run</h2>
+        </div>
+    </div>
+    <script type="text/javascript" src="js/newChart.js"></script>
+
+</body>
+
+</html>

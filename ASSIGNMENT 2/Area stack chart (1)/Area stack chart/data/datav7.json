@@ -1,0 +1,6080 @@
+[],
+[
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 1,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 3.53802490234375,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.15000000000000002,
+   "run_reward_movement": 0.15000000000000002,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.23802658915519714,
+    "speed_reward": 0.05,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 842.0177001953125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.23802658915519714,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.968104898929596,
+   "rpm": 842.0177001953125,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.02294921875,
+   "world_position_y": 137.8976287841797
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 2,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 4.0369873046875,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.25,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.009874780662357807,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 841.6817016601562,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.009874780662357807,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9653378129005432,
+   "rpm": 841.6817016601562,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.05810546875,
+   "world_position_y": 137.88856506347656
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 3,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 4.5400390625,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.35,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.0,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 841.3837280273438,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.0,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9625658988952637,
+   "rpm": 841.3837280273438,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.05810546875,
+   "world_position_y": 137.8905792236328
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 4,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 5.0400390625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.45999999999999996,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.05155161768198013,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2806.60791015625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.05155161768198013,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.9189244508743286,
+   "rpm": 2806.60791015625,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0616455078125,
+   "world_position_y": 137.89471435546875
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 5,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 5.54498291015625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.5599999999999999,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.014239568263292313,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2147.57421875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.014239568263292313,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.7474581599235535,
+   "rpm": 2147.57421875,
+   "max_rpm": 6800.0,
+   "steering": -0.5654677152633667,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.080078125,
+   "world_position_y": 137.88821411132812
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 6,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 6.04302978515625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.6699999999999999,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.05085858702659607,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 835.773193359375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.05085858702659607,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9988384246826172,
+   "rpm": 835.773193359375,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0848388671875,
+   "world_position_y": 137.89321899414062
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 7,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 6.54803466796875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.7799999999999999,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.06939724087715149,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3066.4453125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.06939724087715149,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.9478966593742371,
+   "rpm": 3066.4453125,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.113525390625,
+   "world_position_y": 137.89413452148438
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 8,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 7.04998779296875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.8799999999999999,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.011447099037468433,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2637.572509765625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.011447099037468433,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.7504280805587769,
+   "rpm": 2637.572509765625,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.12890625,
+   "world_position_y": 137.8868408203125
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 9,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 7.54998779296875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 1.1199999999999999,
+   "run_reward_movement": 0.24000000000000002,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.7057559490203857,
+    "speed_reward": 0.14,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 1838.2711181640625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.7057559490203857,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.6852918267250061,
+   "rpm": 1838.2711181640625,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.1749267578125,
+   "world_position_y": 137.8886260986328
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 10,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 8.05303955078125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 1.7799999999999998,
+   "run_reward_movement": 0.66,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 2.788271427154541,
+    "speed_reward": 0.56,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2108.38671875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 2.788271427154541,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.6031814813613892,
+   "rpm": 2108.38671875,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.87255859375,
+   "world_position_y": 137.87120056152344
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 11,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 8.55499267578125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 2.9,
+   "run_reward_movement": 1.12,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 5.096726894378662,
+    "speed_reward": 1.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2439.503173828125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 5.096726894378662,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.0,
+   "rpm": 2439.503173828125,
+   "max_rpm": 6800.0,
+   "steering": -0.4950617551803589,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1317.75439453125,
+   "world_position_y": 137.83995056152344
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 12,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 9.05303955078125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 4.37,
+   "run_reward_movement": 1.4700000000000002,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 6.866701602935791,
+    "speed_reward": 1.37,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3531.946044921875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 6.866701602935791,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.0,
+   "rpm": 3531.946044921875,
+   "max_rpm": 6800.0,
+   "steering": -0.7710616588592529,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1319.77197265625,
+   "world_position_y": 137.7637481689453
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 13,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 9.55499267578125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 6.03,
+   "run_reward_movement": 1.6600000000000001,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 7.805581569671631,
+    "speed_reward": 1.56,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3298.58740234375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 7.805581569671631,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.0,
+   "rpm": 3298.58740234375,
+   "max_rpm": 6800.0,
+   "steering": -0.6486597061157227,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1320.7935791015625,
+   "world_position_y": 137.62583923339844
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 14,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 1.7472034692764282,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 10.05499267578125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 13.09,
+   "run_reward_movement": 7.06,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 1.7472034692764282,
+    "track_length": 1960.7783203125,
+    "distance_reward": 5.25,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 8.572972297668457,
+    "speed_reward": 1.71,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3971.783935546875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 8.572972297668457,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.0,
+   "rpm": 3971.783935546875,
+   "max_rpm": 6800.0,
+   "steering": 0.3089424967765808,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1320.327880859375,
+   "world_position_y": 137.48526000976562
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 15,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 5.547452449798584,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 10.55999755859375,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 25.639999999999997,
+   "run_reward_movement": 12.549999999999997,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 5.547452449798584,
+    "track_length": 1960.7783203125,
+    "distance_reward": 11.399999999999999,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 9.774964332580566,
+    "speed_reward": 1.95,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3971.4921875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 9.774964332580566,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.0,
+   "rpm": 3971.4921875,
+   "max_rpm": 6800.0,
+   "steering": -0.2538221776485443,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1320.4683837890625,
+   "world_position_y": 137.33090209960938
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 16,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.339291572570801,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 11.06500244140625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 30.589999999999996,
+   "run_reward_movement": 4.95,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.339291572570801,
+    "track_length": 1960.7783203125,
+    "distance_reward": 5.37,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 1.9080498218536377,
+    "speed_reward": 0.38,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 823.9456176757812,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 1.9080498218536377,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9996883869171143,
+   "rpm": 823.9456176757812,
+   "max_rpm": 6800.0,
+   "steering": 0.6922129392623901,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.517333984375,
+   "world_position_y": 137.29605102539062
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 17,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.85009241104126,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 11.56298828125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 31.349999999999998,
+   "run_reward_movement": 0.76,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.85009241104126,
+    "track_length": 1960.7783203125,
+    "distance_reward": 1.53,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.142344668507576,
+    "speed_reward": 0.03,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3265.352294921875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.142344668507576,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.946032702922821,
+   "rpm": 3265.352294921875,
+   "max_rpm": 6800.0,
+   "steering": -0.5482210516929626,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.850830078125,
+   "world_position_y": 137.26608276367188
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 18,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.8451128005981445,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 12.06500244140625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 30.569999999999997,
+   "run_reward_movement": -0.78,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.8451128005981445,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.08665395528078079,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3063.705322265625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.08665395528078079,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.7210071086883545,
+   "rpm": 3063.705322265625,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.822998046875,
+   "world_position_y": 137.21243286132812
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 19,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.845165729522705,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 12.57000732421875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 29.769999999999996,
+   "run_reward_movement": -0.8,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.845165729522705,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.022984351962804794,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 827.27783203125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.022984351962804794,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9992650151252747,
+   "rpm": 827.27783203125,
+   "max_rpm": 6800.0,
+   "steering": 0.5704427361488342,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.822021484375,
+   "world_position_y": 137.2291717529297
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 20,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.848888874053955,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 13.06500244140625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 28.979999999999997,
+   "run_reward_movement": -0.79,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.848888874053955,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.04393346980214119,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 834.918701171875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.04393346980214119,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9971755743026733,
+   "rpm": 834.918701171875,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.822265625,
+   "world_position_y": 137.2267303466797
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 21,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.851232528686523,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 13.5679931640625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 28.189999999999998,
+   "run_reward_movement": -0.79,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.851232528686523,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.0735873281955719,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3161.66162109375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.0735873281955719,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.9447043538093567,
+   "rpm": 3161.66162109375,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.819580078125,
+   "world_position_y": 137.23109436035156
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 22,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.853315353393555,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 14.0660400390625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 27.4,
+   "run_reward_movement": -0.79,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.853315353393555,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.036694206297397614,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2709.89892578125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.036694206297397614,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.7419248819351196,
+   "rpm": 2709.89892578125,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8211669921875,
+   "world_position_y": 137.22572326660156
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 23,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.848938941955566,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 14.57000732421875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 26.63,
+   "run_reward_movement": -0.77,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.848938941955566,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.14006838202476501,
+    "speed_reward": 0.03,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 1893.9439697265625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.14006838202476501,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.6743701696395874,
+   "rpm": 1893.9439697265625,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.803955078125,
+   "world_position_y": 137.21578979492188
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 24,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.860158920288086,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 15.07000732421875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 25.89,
+   "run_reward_movement": -0.74,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.860158920288086,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.03,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.12586656212806702,
+    "speed_reward": 0.03,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2169.33642578125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.12586656212806702,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.5888451933860779,
+   "rpm": 2169.33642578125,
+   "max_rpm": 6800.0,
+   "steering": 0.5124009847640991,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.808837890625,
+   "world_position_y": 137.2120361328125
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 25,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.8725481033325195,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 15.572998046875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 25.16,
+   "run_reward_movement": -0.73,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.8725481033325195,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.03,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.18382929265499115,
+    "speed_reward": 0.04,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 1560.9122314453125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.18382929265499115,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.5118166208267212,
+   "rpm": 1560.9122314453125,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.813720703125,
+   "world_position_y": 137.20864868164062
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 26,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.87976598739624,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 16.07098388671875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 24.42,
+   "run_reward_movement": -0.74,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.87976598739624,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.03,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.14459960162639618,
+    "speed_reward": 0.03,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 825.3436279296875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.14459960162639618,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9995203614234924,
+   "rpm": 825.3436279296875,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8345947265625,
+   "world_position_y": 137.2317657470703
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 27,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.887275695800781,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 16.57501220703125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 23.67,
+   "run_reward_movement": -0.75,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.887275695800781,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.03,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.08595407754182816,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3332.46533203125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.08595407754182816,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.9422808885574341,
+   "rpm": 3332.46533203125,
+   "max_rpm": 6800.0,
+   "steering": 0.5893477201461792,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.84228515625,
+   "world_position_y": 137.22340393066406
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 28,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.89140510559082,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 17.07501220703125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 22.89,
+   "run_reward_movement": -0.78,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.89140510559082,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.08854105323553085,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2845.37353515625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.08854105323553085,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.7262133955955505,
+   "rpm": 2845.37353515625,
+   "max_rpm": 6800.0,
+   "steering": -0.5495476722717285,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.84228515625,
+   "world_position_y": 137.22393798828125
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 29,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.89210319519043,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 17.57598876953125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 22.11,
+   "run_reward_movement": -0.78,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.89210319519043,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.0896536260843277,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 827.8406982421875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.0896536260843277,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9991827011108398,
+   "rpm": 827.8406982421875,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8424072265625,
+   "world_position_y": 137.22311401367188
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 30,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.892117500305176,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 18.08099365234375,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 21.33,
+   "run_reward_movement": -0.78,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.892117500305176,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.11052391678094864,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 835.1936645507812,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.11052391678094864,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9970328211784363,
+   "rpm": 835.1936645507812,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8419189453125,
+   "world_position_y": 137.22454833984375
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 31,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.8939313888549805,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 18.5780029296875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 20.549999999999997,
+   "run_reward_movement": -0.78,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.8939313888549805,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.09855268895626068,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 837.8311157226562,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.09855268895626068,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9945977330207825,
+   "rpm": 837.8311157226562,
+   "max_rpm": 6800.0,
+   "steering": -0.5455676913261414,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8433837890625,
+   "world_position_y": 137.22361755371094
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 32,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.89543342590332,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 19.0830078125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 19.749999999999996,
+   "run_reward_movement": -0.8,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.89543342590332,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.011207939125597477,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 838.0213623046875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.011207939125597477,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9920523762702942,
+   "rpm": 838.0213623046875,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.843505859375,
+   "world_position_y": 137.22410583496094
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 33,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.895726680755615,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 19.58599853515625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 18.949999999999996,
+   "run_reward_movement": -0.8,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.895726680755615,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.015057387761771679,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 838.0223999023438,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.015057387761771679,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9895162582397461,
+   "rpm": 838.0223999023438,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.84375,
+   "world_position_y": 137.22203063964844
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 34,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.897430419921875,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 20.0830078125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 18.149999999999995,
+   "run_reward_movement": -0.8,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.897430419921875,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.02162868343293667,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2978.0576171875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.02162868343293667,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.942145824432373,
+   "rpm": 2978.0576171875,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.84423828125,
+   "world_position_y": 137.2242431640625
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 35,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.901922702789307,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 20.5830078125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 17.389999999999993,
+   "run_reward_movement": -0.76,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.901922702789307,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.18875931203365326,
+    "speed_reward": 0.04,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 5882.43408203125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.18875931203365326,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.6883124709129333,
+   "rpm": 5882.43408203125,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.836181640625,
+   "world_position_y": 137.21192932128906
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 36,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.8988471031188965,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 21.08599853515625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 16.609999999999992,
+   "run_reward_movement": -0.78,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.8988471031188965,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.10126757621765137,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 6018.07470703125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.10126757621765137,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.3325939178466797,
+   "rpm": 6018.07470703125,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8292236328125,
+   "world_position_y": 137.20150756835938
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 37,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.9089884757995605,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 21.58599853515625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 15.869999999999992,
+   "run_reward_movement": -0.74,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.9089884757995605,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.03,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.149671271443367,
+    "speed_reward": 0.03,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 4478.8896484375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.149671271443367,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.0,
+   "rpm": 4478.8896484375,
+   "max_rpm": 6800.0,
+   "steering": 0.5336276888847351,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.833251953125,
+   "world_position_y": 137.19744873046875
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 38,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.927286624908447,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 22.08599853515625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 15.149999999999991,
+   "run_reward_movement": -0.7200000000000001,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.927286624908447,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.06,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.09591139107942581,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 820.2974853515625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.09591139107942581,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9999812841415405,
+   "rpm": 820.2974853515625,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8460693359375,
+   "world_position_y": 137.20359802246094
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 39,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.918370723724365,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 22.59002685546875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 14.319999999999991,
+   "run_reward_movement": -0.8300000000000001,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.918370723724365,
+    "track_length": 1960.7783203125,
+    "distance_reward": -0.03,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.009281210601329803,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3354.382080078125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.009281210601329803,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.9481039047241211,
+   "rpm": 3354.382080078125,
+   "max_rpm": 6800.0,
+   "steering": -0.5323010087013245,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8597412109375,
+   "world_position_y": 137.23178100585938
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 40,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.918009281158447,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 23.09100341796875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 13.52999999999999,
+   "run_reward_movement": -0.79,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.918009281158447,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.07077273726463318,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3010.231689453125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.07077273726463318,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.7194777727127075,
+   "rpm": 3010.231689453125,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8565673828125,
+   "world_position_y": 137.21994018554688
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 41,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.907639503479004,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 23.59100341796875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 12.71999999999999,
+   "run_reward_movement": -0.81,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.907639503479004,
+    "track_length": 1960.7783203125,
+    "distance_reward": -0.03,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.08324621617794037,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2129.982177734375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.08324621617794037,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.6369227170944214,
+   "rpm": 2129.982177734375,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8333740234375,
+   "world_position_y": 137.2123260498047
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 42,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.902860641479492,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 24.09100341796875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 11.93999999999999,
+   "run_reward_movement": -0.78,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.902860641479492,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.1096220389008522,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 823.079833984375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.1096220389008522,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9997735023498535,
+   "rpm": 823.079833984375,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.836669921875,
+   "world_position_y": 137.21334838867188
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 43,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.913309097290039,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 24.59100341796875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 11.17999999999999,
+   "run_reward_movement": -0.76,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.913309097290039,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.03,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.030629446730017662,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 833.431884765625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.030629446730017662,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9978378415107727,
+   "rpm": 833.431884765625,
+   "max_rpm": 6800.0,
+   "steering": 0.5309743285179138,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8594970703125,
+   "world_position_y": 137.22889709472656
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 44,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.9197869300842285,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 25.093017578125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 10.42999999999999,
+   "run_reward_movement": -0.75,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.9197869300842285,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.03,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.08507084101438522,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 837.22119140625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.08507084101438522,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9954627752304077,
+   "rpm": 837.22119140625,
+   "max_rpm": 6800.0,
+   "steering": -0.5887328386306763,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.8592529296875,
+   "world_position_y": 137.2205352783203
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 1,
+   "current_run_steps": 45,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 7.9218902587890625,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 1,
+   "current_lap_time": 25.5980224609375,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 9.649999999999991,
+   "run_reward_movement": -0.78,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 7.9218902587890625,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.11613300442695618,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 838.0159912109375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 7,
+    "terrain_reward": -0.8,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.11613300442695618,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9929246306419373,
+   "rpm": 838.0159912109375,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 1
+  },
+  "position": {
+   "world_position_x": 1321.858642578125,
+   "world_position_y": 137.22499084472656
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ }
+],
+[
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 0,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": -1.0,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.12000000000000001,
+   "run_reward_movement": 0.12000000000000001,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.1018875241279602,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 849.6985473632812,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.1018875241279602,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9956311583518982,
+   "rpm": 849.6985473632812,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.308349609375,
+   "world_position_y": 137.93167114257812
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 1,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": -1.0,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.24000000000000002,
+   "run_reward_movement": 0.12000000000000001,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.10995141416788101,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2952.195556640625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.10995141416788101,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.9485118985176086,
+   "rpm": 2952.195556640625,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.3524169921875,
+   "world_position_y": 137.93099975585938
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 2,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": -1.0,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 0.52,
+   "run_reward_movement": 0.28,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.9189672470092773,
+    "speed_reward": 0.18,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3088.6533203125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.9189672470092773,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.739543080329895,
+   "rpm": 3088.6533203125,
+   "max_rpm": 6800.0,
+   "steering": -0.5402610301971436,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.468505859375,
+   "world_position_y": 137.9231414794922
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 3,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": -1.0,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 1.15,
+   "run_reward_movement": 0.63,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 2.6582534313201904,
+    "speed_reward": 0.53,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 1967.1212158203125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 2.6582534313201904,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.6587076187133789,
+   "rpm": 1967.1212158203125,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.71875,
+   "world_position_y": 137.89218139648438
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 4,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 0.25201416015625,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 1.52,
+   "run_reward_movement": 0.37,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 1.3296440839767456,
+    "speed_reward": 0.27,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 821.5150146484375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 1.3296440839767456,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9999076128005981,
+   "rpm": 821.5150146484375,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.7763671875,
+   "world_position_y": 137.8406219482422
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 5,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 0.7530517578125,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 1.6300000000000001,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.028304314240813255,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 832.847900390625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.028304314240813255,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9980367422103882,
+   "rpm": 832.847900390625,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.7679443359375,
+   "world_position_y": 137.83004760742188
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 6,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 1.260009765625,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 1.7500000000000002,
+   "run_reward_movement": 0.12000000000000001,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.08804217725992203,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 837.0104370117188,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.08804217725992203,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.99566251039505,
+   "rpm": 837.0104370117188,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.77294921875,
+   "world_position_y": 137.8333282470703
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 7,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 1.758056640625,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 1.8500000000000003,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.01617591828107834,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 837.9801025390625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.01617591828107834,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9931790828704834,
+   "rpm": 837.9801025390625,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.7752685546875,
+   "world_position_y": 137.82797241210938
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 8,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 2.260009765625,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 1.9500000000000004,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.0031535497400909662,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 839.278076171875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.0031535497400909662,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9906394481658936,
+   "rpm": 839.278076171875,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.7735595703125,
+   "world_position_y": 137.82984924316406
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 9,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 2.760009765625,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 2.0500000000000003,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.004098081029951572,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 848.3345947265625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.004098081029951572,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9876608848571777,
+   "rpm": 848.3345947265625,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.7752685546875,
+   "world_position_y": 137.82815551757812
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 10,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 3.26202392578125,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 2.1500000000000004,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.005313409026712179,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 849.5595092773438,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.005313409026712179,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9843714237213135,
+   "rpm": 849.5595092773438,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.77392578125,
+   "world_position_y": 137.82994079589844
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 11,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 3.7650146484375,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 2.2600000000000002,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.05977754294872284,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2999.3154296875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.05977754294872284,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.9348750114440918,
+   "rpm": 2999.3154296875,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.7762451171875,
+   "world_position_y": 137.83175659179688
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 12,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 4.2650146484375,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 2.5500000000000003,
+   "run_reward_movement": 0.29000000000000004,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.9356690049171448,
+    "speed_reward": 0.19,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3068.52783203125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.9356690049171448,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.7281305193901062,
+   "rpm": 3068.52783203125,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1314.8563232421875,
+   "world_position_y": 137.8265838623047
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 13,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 4.76202392578125,
+   "flag": 1
+  },
+  "rewards": {
+   "run_reward_movement_total": 2.66,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.044821061193943024,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 826.9937744140625,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.044821061193943024,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9993180632591248,
+   "rpm": 826.9937744140625,
+   "max_rpm": 6800.0,
+   "steering": -0.5070943236351013,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0477294921875,
+   "world_position_y": 137.80970764160156
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 14,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 5.26800537109375,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 2.77,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.03760568052530289,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 834.8663330078125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.03760568052530289,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9972047805786133,
+   "rpm": 834.8663330078125,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0496826171875,
+   "world_position_y": 137.81170654296875
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 15,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 5.77001953125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 2.9,
+   "run_reward_movement": 0.13,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.12685227394104004,
+    "speed_reward": 0.03,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 837.7227783203125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.12685227394104004,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9947805404663086,
+   "rpm": 837.7227783203125,
+   "max_rpm": 6800.0,
+   "steering": 0.5429143309593201,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0604248046875,
+   "world_position_y": 137.8093719482422
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 16,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 6.26702880859375,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 3.0,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.02039746753871441,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 845.7943725585938,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.02039746753871441,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9920876026153564,
+   "rpm": 845.7943725585938,
+   "max_rpm": 6800.0,
+   "steering": -0.5409727692604065,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0748291015625,
+   "world_position_y": 137.80267333984375
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 17,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 6.77203369140625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 3.1,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.004585132468491793,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 849.9060668945312,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.004585132468491793,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.988825261592865,
+   "rpm": 849.9060668945312,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0748291015625,
+   "world_position_y": 137.80445861816406
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 18,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 7.27203369140625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 3.2,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.0,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 848.656005859375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.0,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9855374693870544,
+   "rpm": 848.656005859375,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0745849609375,
+   "world_position_y": 137.80479431152344
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 19,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 7.77203369140625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 3.31,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.05399279668927193,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3003.331787109375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.05399279668927193,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.9359865188598633,
+   "rpm": 3003.331787109375,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0762939453125,
+   "world_position_y": 137.80752563476562
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 20,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 8.27703857421875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 3.41,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.00796851422637701,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2492.7724609375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.00796851422637701,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.7459632158279419,
+   "rpm": 2492.7724609375,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.083251953125,
+   "world_position_y": 137.80264282226562
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 21,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 8.77703857421875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 3.52,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.054840076714754105,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 828.0842895507812,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.054840076714754105,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.999140202999115,
+   "rpm": 828.0842895507812,
+   "max_rpm": 6800.0,
+   "steering": -0.5190343260765076,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0845947265625,
+   "world_position_y": 137.80711364746094
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 22,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 9.27703857421875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 3.64,
+   "run_reward_movement": 0.12000000000000001,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.08392178267240524,
+    "speed_reward": 0.02,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 835.2198486328125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.08392178267240524,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9970049262046814,
+   "rpm": 835.2198486328125,
+   "max_rpm": 6800.0,
+   "steering": -1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.083740234375,
+   "world_position_y": 137.8067169189453
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 23,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 9.7750244140625,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 3.74,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.01440133061259985,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 840.5302734375,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.01440133061259985,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9945583343505859,
+   "rpm": 840.5302734375,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.083251953125,
+   "world_position_y": 137.79962158203125
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 24,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 10.27703857421875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 3.85,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.04366280511021614,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 848.6370239257812,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.04366280511021614,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9915130734443665,
+   "rpm": 848.6370239257812,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.08544921875,
+   "world_position_y": 137.80496215820312
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 25,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 10.780029296875,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 3.96,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.033075615763664246,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 849.3638305664062,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.033075615763664246,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9882217645645142,
+   "rpm": 849.3638305664062,
+   "max_rpm": 6800.0,
+   "steering": 1.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.0980224609375,
+   "world_position_y": 137.8043670654297
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 26,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 11.28204345703125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 4.06,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.016019925475120544,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 847.8405151367188,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.016019925475120544,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.9849734306335449,
+   "rpm": 847.8405151367188,
+   "max_rpm": 6800.0,
+   "steering": -0.5754177570343018,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.103271484375,
+   "world_position_y": 137.79879760742188
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 27,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 11.78204345703125,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 4.17,
+   "run_reward_movement": 0.11,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.06579607725143433,
+    "speed_reward": 0.01,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 846.5841674804688,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.06579607725143433,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 0.0,
+   "clutch": 0.9818325042724609,
+   "rpm": 846.5841674804688,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.1063232421875,
+   "world_position_y": 137.8031768798828
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 28,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 12.28704833984375,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 4.3,
+   "run_reward_movement": 0.13,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.14843830466270447,
+    "speed_reward": 0.03,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 3032.60986328125,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.14843830466270447,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 0.0,
+   "throttle": 1.0,
+   "clutch": 0.9305962324142456,
+   "rpm": 3032.60986328125,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.1201171875,
+   "world_position_y": 137.8021240234375
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ },
+ {
+  "version": 117,
+  "run": {
+   "current_run": 2,
+   "current_run_steps": 29,
+   "future_rewards": 0,
+   "predicted_actions": 0
+  },
+  "lap": {
+   "laps_completed": 0,
+   "lap_distance": 0.0,
+   "track_length": 1960.7783203125,
+   "current_lap": 1,
+   "current_sector": 3,
+   "current_lap_time": 12.78704833984375,
+   "flag": 0
+  },
+  "rewards": {
+   "run_reward_movement_total": 4.3999999999999995,
+   "run_reward_movement": 0.1,
+   "gears": {
+    "gear": 1,
+    "total_gears": 6,
+    "gear_reward": 0,
+    "gear_reward_total": 0
+   },
+   "distances": {
+    "lap_distance": 0.0,
+    "track_length": 1960.7783203125,
+    "distance_reward": 0.0,
+    "distance_reward_total": 0
+   },
+   "speeds": {
+    "speed": 0.012895146384835243,
+    "speed_reward": 0.0,
+    "speed_reward_total": 0
+   },
+   "rpms": {
+    "rpm": 2441.21044921875,
+    "max_rpm": 6800.0,
+    "rpm_reward": 0,
+    "rpm_reward_total": 0
+   },
+   "terrains": {
+    "terrain": 0,
+    "terrain_reward": 0.1,
+    "terrain_reward_total": 0
+   }
+  },
+  "car": {
+   "speed": 0.012895146384835243,
+   "gear": 1,
+   "total_gears": 6,
+   "brake": 1.0,
+   "throttle": 0.0,
+   "clutch": 0.7448338270187378,
+   "rpm": 2441.21044921875,
+   "max_rpm": 6800.0,
+   "steering": 0.0,
+   "antilock_active": false,
+   "crash_state": 0
+  },
+  "position": {
+   "world_position_x": 1315.13134765625,
+   "world_position_y": 137.79385375976562
+  },
+  "track": {
+   "ambient_temp": 33.13377380371094,
+   "rain_density": 0.0,
+   "wind_speed": 0.699999988079071,
+   "clouds": 2.0,
+   "track_temp": 57.27724075317383
+  },
+  "race_info": {
+   "car_name": "b'Audi A1 quattro'",
+   "class": "b'Road F'",
+   "track_location": "b'Circuit of the Americas'",
+   "track_variation": "b'Club Circuit'",
+   "track_length": "1960.7783203125"
+  }
+ }
+],
