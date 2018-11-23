@@ -33,7 +33,7 @@ function drawChart(data, i) { //the function in which the chart is drawn
         left: 50,
         right: 50,
         top: 5,
-        bottom: 5
+        bottom: 30
     };
 
     var tooltip = d3.select("body").append("div").style("opacity", "0").style("position", "absolute"); //tooltip in a div with opacity 0 so it is hidden when not hovering over the lines
