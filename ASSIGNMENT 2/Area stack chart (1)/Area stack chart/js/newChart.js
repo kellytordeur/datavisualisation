@@ -199,8 +199,8 @@ function drawChart(data, i) { //the function in which the chart is drawn
         .attr("d", line)
         .on("mousemove", function (d) { //make the tooltip visible hen hovering over the line
             tooltip.style("opacity", "1") 
-                .style("left", (d3.event.pageX + 20 )+ "px")
-                .style("top", d3.event.pageY + "px");
+                .style("left", (d3.event.pageX + 30 )+ "px")
+                .style("top", d3.event.pageY +30 + "px");
 
             tooltip.html("Total Rewards");
 
@@ -216,8 +216,8 @@ function drawChart(data, i) { //the function in which the chart is drawn
         .attr("d", lineDistance)
         .on("mousemove", function (d) { //make the tooltip visible hen hovering over the line
             tooltip.style("opacity", "1")
-                .style("left", (d3.event.pageX + 20 ) + "px")
-                .style("top", d3.event.pageY + "px");
+                .style("left", (d3.event.pageX + 30 ) + "px")
+                .style("top", d3.event.pageY +30 + "px");
 
             tooltip.html("Distance Rewards");
         })
@@ -230,8 +230,8 @@ function drawChart(data, i) { //the function in which the chart is drawn
         .attr("class", "speed line")
         .attr("d", lineSpeed).on("mousemove", function (d) { //make the tooltip visible hen hovering over the line
             tooltip.style("opacity", "1") 
-                .style("left", (d3.event.pageX + 20 ) + "px")
-                .style("top", d3.event.pageY + "px");
+                .style("left", (d3.event.pageX + 30 ) + "px")
+                .style("top", d3.event.pageY +30 + "px");
 
             tooltip.html("Speed Rewards");
         })
@@ -244,8 +244,8 @@ function drawChart(data, i) { //the function in which the chart is drawn
         .attr("class", "terrain line")
         .attr("d", lineTerrain).on("mousemove", function (d) { //make the tooltip visible hen hovering over the line
             tooltip.style("opacity", "1")
-                .style("left", (d3.event.pageX + 20 ) + "px")
-                .style("top", d3.event.pageY + "px");
+                .style("left", (d3.event.pageX + 30 ) + "px")
+                .style("top", d3.event.pageY + 30+ "px");
 
             tooltip.html("Terrain Rewards");
         })
