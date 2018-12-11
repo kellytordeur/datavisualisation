@@ -1,0 +1,48 @@
+Pakket van rapport maken...
+
+-----------------------------------------------------------------------------
+Document:
+Naam: assignment5.pdf
+Kleurmodus: CMYK-kleur
+Kleurprofiel: U.S. Web Coated (SWOP) v2
+Maateenheid: millimeters
+Afmetingen van tekengebied: 210 mm x 450,3796 mm
+Afbeeldingen tonen in omtrekmodus: UIT
+Vervangen lettertypen markeren: UIT
+Vervangen glyphs markeren: UIT
+Bewerkbaarheid van tekst behouden
+Gekleurd papier simuleren: UIT
+
+-----------------------------------------------------------------------------
+Steunkleurobjecten:
+
+-----------------------------------------------------------------------------
+Ontbrekende lettertypen:GEEN
+
+-----------------------------------------------------------------------------
+Beschermde lettertypen die niet in het pakket zijn opgenomen:GEEN
+
+-----------------------------------------------------------------------------
+Lettertypen:
+Fjalla One (TrueType)
+Raleway SemiBold (OTF)
+Raleway (OTF)
+
+-----------------------------------------------------------------------------
+Ingesloten lettertypen:
+GEEN
+
+-----------------------------------------------------------------------------
+Ontbrekende koppelingen:
+GEEN
+
+-----------------------------------------------------------------------------
+Gekoppelde afbeeldingen:
+
+D:\Users\Kelly\Bureaublad\skelel.PNG
+Tekst: Transparante CMYK
+Bits per pixel: 40
+Kanalen: 5
+Grootte: 16384K, 2544 door 1319 pixels
+Afmetingen: 598,281 door 310,194 punten 
+Resolutie: 306,157 door 306,157 pixels per inch

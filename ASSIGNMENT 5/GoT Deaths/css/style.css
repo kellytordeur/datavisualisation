@@ -1,0 +1,61 @@
+img{
+    position: absolute;
+    visibility: hidden;
+}
+
+body{
+    overflow: hidden;
+    background-color: #151515;
+    font-family: "Raleway Light", sans-serif;
+    color: white;
+}
+
+.hover{
+    width: 800px;
+    height: 800px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -400px;
+    margin-top: -400px;
+
+}
+
+.buttons{
+    width: 1000px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    margin-left: -500px;
+    padding: 15px;
+}
+
+button{
+    background-color: #151515;
+    color: white;
+    border: 1px solid #151515;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+button:hover{
+    color: #F58030
+}
+
+h1{
+    text-align: center
+}
+
+.info{
+    visibility: hidden;
+    position: absolute;
+    right: 150px;
+    top: 40%;
+    height: auto;
+    width: 300px;
+}
+
+.importantDeaths{
+    white-space: pre-line;
+}
